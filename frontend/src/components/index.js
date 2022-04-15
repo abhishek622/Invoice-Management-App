@@ -6,10 +6,10 @@ import Notification from "./general/Notification";
 import CustomNoRowsOverlay from "./general/CustomNoRowsOverlay";
 
 export {
-	Footer,
-	Header,
-	ActionBar,
-	LoadingScreen,
-	Notification,
-	CustomNoRowsOverlay,
+  Footer,
+  Header,
+  ActionBar,
+  LoadingScreen,
+  Notification,
+  CustomNoRowsOverlay,
 };
